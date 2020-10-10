@@ -1,5 +1,6 @@
 import React, {Component}  from 'react';
 import Cell from '../components/Cell';
+  
 
 class Board extends Component {
   constructor(props) {

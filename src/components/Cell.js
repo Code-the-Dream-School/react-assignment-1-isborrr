@@ -6,6 +6,6 @@ function Cell(props) {
     <button className="square" onClick={props.onClick}>
       {props.value}
     </button>
-  );
+  );  
 }
 export default Cell;

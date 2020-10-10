@@ -5,7 +5,7 @@ import handleClick from '../components/App.js';
 
 function shoot() {
   alert("Great Shot!");
-  
+     
 }
 
 const Header = (props) => {
