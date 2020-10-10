@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+   
 
 
 function Cell(props) {
@@ -7,5 +8,6 @@ function Cell(props) {
       {props.value}
     </button>
   );  
+
 }
 export default Cell;

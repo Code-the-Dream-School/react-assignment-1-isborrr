@@ -8,6 +8,7 @@ class Board extends Component {
     this.state = {
       cells: Array(9).fill(null),
        xNextPlayer: true,
+
     };
 }
 

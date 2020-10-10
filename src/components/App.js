@@ -8,6 +8,7 @@ import Info from './Info.js';
 
 class Game extends Component {
 
+
   // if( this.state.gamestae)
   state={
     visible:false, buttonStart:false

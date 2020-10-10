@@ -3,6 +3,7 @@ import Image1 from '../images/0.png';
 import Image2 from '../images/1.png';
     
 
+
 class Info extends Component{
 state = {
     playerX: '',
