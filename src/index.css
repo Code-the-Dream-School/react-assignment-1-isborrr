@@ -66,7 +66,12 @@ flex-wrap: nowrap;
 .icon{
   width: 20px;
 }
-
+.middle{
+  margin: auto;
+  width: 50%;
+  margin-left:27rem;
+  padding: 10px;
+}
 .board{
   display: flex;
   flex-direction: column;
@@ -77,4 +82,25 @@ flex-wrap: nowrap;
 .logo{
   width: 150px;
   height: 150px;
+}
+.rounded{
+  margin: .2rem;
+}
+.rounded:hover {
+  background-color: rgb(68, 68, 67);
+}
+.makeFlex{
+  display: flex;
+}
+.right{
+   margin-left:60%;
+}
+.left{
+   margin-left:15%
+}
+.buttonCentered{
+    margin-left: 42.7%;
+    margin-bottom: 2rem;
+  
+  
 }
